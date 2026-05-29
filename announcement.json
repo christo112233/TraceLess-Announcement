@@ -1,18 +1,11 @@
 {
   "announcements": [
     {
-      "id": "20260530-001",
-      "title": "v4.6 版本更新",
-      "content": "## 新功能\n\n- 新增公告栏\n- 性能优化\n\n## 问题修复\n\n- 修复了某某 Bug",
-      "link": "https://github.com/christo112233/TraceLess-Announcement/releases",
-      "date": "2026-05-30"
-    },
-    {
       "id": "20260529-001",
-      "title": "欢迎使用 TraceLess",
-      "content": "感谢使用 AI 降重系统。\n\n如有问题请反馈。",
-      "link": "",
+      "title": "v4.5 版本更新",
+      "content": "## 新功能\n- 新增公告栏,现在所有的更新预告将会在此发布\n-提醒所有用户，此软件降低AI率的同时也会降低重复率，且效果较显著，如果不希望查重率过低请谨慎使用，建议配合手动修改\n如果不在意过低的查重率可以忽略。",
+      "link": "https://github.com/christo112233/TraceLess-Announcement/releases",
       "date": "2026-05-29"
-    }
+    },
   ]
 }
