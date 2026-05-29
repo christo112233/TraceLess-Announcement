@@ -1,22 +1,17 @@
 {
   "announcements": [
     {
-      "id": "20260529-002",
-      "title": "v4.5 更新通知",
-      "content": "## 新功能\n- 公告栏上线wwdawdaw",
-      "link":"",
-      "date": "2026-05-29"
-    }
-  ]
-}
-
-{
-  "announcements": [
+      "id": "20260530-001",
+      "title": "v4.6 版本更新",
+      "content": "## 新功能\n\n- 新增公告栏\n- 性能优化\n\n## 问题修复\n\n- 修复了某某 Bug",
+      "link": "https://github.com/christo112233/TraceLess-Announcement/releases",
+      "date": "2026-05-30"
+    },
     {
-      "id": "20260529-003",
-      "title": "v4.5 更新通知2",
-      "content": "## 新功能\n- 公告栏上线,第二条测试",
-      "link":"",
+      "id": "20260529-001",
+      "title": "欢迎使用 TraceLess",
+      "content": "感谢使用 AI 降重系统。\n\n如有问题请反馈。",
+      "link": "",
       "date": "2026-05-29"
     }
   ]
